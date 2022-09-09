@@ -1,1 +1,2 @@
 baris pertama membuat file
+menambahkan baris 2
